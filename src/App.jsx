@@ -6,6 +6,7 @@ import './index.css'
 import Paciente from "./components/Paciente"
 function App() {
   //const pacientes: any[];
+  //mario
   const [pacientes, setPacientes] = useState([]);
   const [paciente, setPaciente] = useState({});
 
